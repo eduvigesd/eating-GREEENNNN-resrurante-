@@ -1,0 +1,119 @@
+    `````````````html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color:#000000;
+}
+h2{
+  color:#444444;
+}
+h3{
+  color:#444444;
+}
+h4{
+  color:#444444;
+}
+h5{
+  color:#232323;
+}
+h6{
+  color:#232323;
+}
+h1 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 20px;
+}
+h3{
+  font-size: 20px;
+}
+h4{
+  font-size: 20px;
+}
+h5{
+  font-size: 20px;
+}
+h6{
+  font-size: 20px;
+}
+body{
+  background-color:#ffffff;
+}
+h1{
+  border:3px dotted #929292;
+}
+.eating{
+  font-size: 40px;
+}
+.eating{
+  color: black;
+}
+.eating{
+  border:3px 
+}
+h1{
+  border-style: groove;
+border-color: #000000;
+}
+.eating{
+  column-gap: 40px;
+}
+
+
+  
+.eating{
+  column-rule-style: solid;
+}
+.eating{
+  column-rule-width: 1px;
+}
+.eating{
+  color: green;
+}
+.chef{
+  color:#7a7a7a;
+}
+.chef2{
+  color:black;
+}
+.chef3{
+  color: #000000;
+}
+.chef4{
+  color:#000000
+}
+.chef5{
+  color:#000000;
+}
+.chef5{
+  font-size: 20px;
+}
+.chef4{
+  font-size: 20px;
+}
+.chef3{
+  font-size: 20px;
+}
+.chef2{
+  font-size: 20px;
+}
+.po{
+  border:none;
+}
+.po2{
+  font-size: 20px;
+}
+.po3{
+  font-size: 20px;
+}
+.po4{
+  font-size: 20px;
+}
+.po5{
+  font-size: 20px;
+}
+.po6{
+  font-size: 20px;
+}
